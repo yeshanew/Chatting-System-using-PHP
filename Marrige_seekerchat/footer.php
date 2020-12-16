@@ -20,15 +20,15 @@
     </div>
     <div class="col-lg-4 col-md-12 col-sm-12 text-light" style="text-align: center;">
       <h5 style="text-align: center;"> Contact Information </h5>      
-      <i class="fa fa-phone-square fa-2x"></i> +251944154574 <br>
-      <i class="fa fa-envelope-o fa-2x"></i>  info@serdo.com <br>
-      <i class="fa fa fa-map-marker fa-2x"></i> +251944154574 <br>
-      <i class="fa fa-phone-square fa-2x"></i> +251944154574
+      <i class="fa fa-phone-square fa-2x"></i> +2519##### <br>
+      <i class="fa fa-envelope-o fa-2x"></i>  info@###.com <br>
+      <i class="fa fa fa-map-marker fa-2x"></i> +2519##### <br>
+      <i class="fa fa-phone-square fa-2x"></i> +2#####
 
     </div>
     <div class="col-lg-12 col-md-12 col-sm-12 bg-white">
       <a href="#" class="back-to-top pull-right"><i class="fa fa-chevron-up fa-2x"></i></a>
-      <p class="ffoot" style="text-align: center;"> <font  color="black">Copyright &copy; <?php echo 'Serdo Market Private Limited Addis Ababa, Ethiopia'; ?> &nbsp;<?php echo date('Y');?></font></p>
+      <p class="ffoot" style="text-align: center;"> <font  color="black">Copyright &copy; <?php echo 'Simple Chatting System Addis Ababa, Ethiopia'; ?> &nbsp;<?php echo date('Y');?></font></p>
     </div>     
 
   </div>
